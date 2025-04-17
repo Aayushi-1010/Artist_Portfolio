@@ -128,15 +128,7 @@ reportWebVitals();
 //       ],
 //     },
 //   ]
-//   // createRoutesFromElements(
-//   //   <Route path='/' element={<Layout/>} errorElement={<ErrorPage/>}>
-//   //     <Route path='' element={<Home/>}/>
-//   //     <Route path='about' element={<About/>}/>
-//   //     <Route path='contact' element={<Contact/>}/>
-//   //     <Route path='portfolio' element={<Portfolio/>}/>
-//   //   </Route>
-
-//   // )
+//   // 
 // );
 
 // const root = ReactDOM.createRoot(document.getElementById("root"));
