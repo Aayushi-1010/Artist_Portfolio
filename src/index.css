@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title-link{
+    @apply text-lime-700;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+}
