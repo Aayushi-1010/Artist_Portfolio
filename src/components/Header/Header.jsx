@@ -11,11 +11,7 @@ function Header() {
         <h1 className="text-4xl font-bold">Artist Name</h1>
         <nav>
           <ul className="flex space-x-4 font-semibold">
-            {/* <li>
-              <NavLink to="/" className={({ isActive }) => (isActive ? "text-pink-900" : "text-gray-300")}>
-                Home
-              </NavLink>
-            </li> */}
+            
             {user && ( 
               <>
                 <li>
